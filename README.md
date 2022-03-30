@@ -18,8 +18,10 @@
 <p> 
 Untuk install aplikasi silahkan jalan perintah berikut ini 
 </p>
+
 ```
 git clone https://github.com/Nofrisdan/Aplikasi-speel-checker.git
+
 ```
 
 # Cara Menggunakan Aplikasi
